@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b91bb444cf5a51649bb98d2f3222328b, type: 3}
+  m_Name: Payout_Symbol_5
+  m_EditorClassIdentifier: 
+  symbol: {fileID: -1687937379, guid: 37047880c3ca2804cac398cbb167c01d, type: 3}
+  payoutMultiplier: 0000000000000000020000000c00000013000000
